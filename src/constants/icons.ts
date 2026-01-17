@@ -17,7 +17,7 @@ export const iconList = [
  'ArchiveX', 'Archive', 'AreaChart', 'Armchair', 'ArrowBigDownDash', 
  'ArrowBigDown', 'ArrowBigLeftDash', 'ArrowBigLeft', 'ArrowBigRightDash',
  'ArrowBigRight', 'ArrowBigUpDash', 'ArrowBigUp', 'ArrowDown01',
- 'ArrowDown10', 'ArrowDownAZ', , 'ArrowDownFromLine',
+ 'ArrowDown10', 'ArrowDownAZ', 'ArrowDownFromLine',
   'ArrowDownLeft',
  'ArrowDownNarrowWide',  'ArrowDownRightSquare',
  'ArrowDownRight', 'ArrowDownToDot', 'ArrowDownToLine',
